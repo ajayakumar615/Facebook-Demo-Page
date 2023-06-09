@@ -1,0 +1,122 @@
+.header
+{
+    background:#3b5998;
+    height:85px;
+    width:100%;
+}
+body{
+    margin:0;
+}
+.logo {
+    width:50%;
+    padding-top: 32px;
+    float:left;
+}
+.login
+{
+    width:50%;
+    float:left;
+}
+.logotext
+{
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 170px;
+}
+.label{
+    color:#fff;
+    font-size: 11px;
+}
+.logincontrols{
+    margin-left: 115px;
+}
+
+.login{
+    padding-top: 10px;
+}
+
+.forgetten
+{
+    color:#fff;
+    font-size: 11px;
+    text-decoration: none;
+    color: #9cb4d8;
+}
+.sub
+{
+    background: #4267b2;
+    color:#fff;
+    height: 20px;
+    border-color: #29487d;
+    cursor: pointer;
+}
+
+.sub:hover
+{
+    background: red;
+}
+.leftsection
+{
+    width:30%;
+    float:left;
+}
+
+.rightsection
+{
+    width:50%;
+    float:left;
+}
+.mainbody
+{
+    background: linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height: 500px;
+}
+
+.para{
+    height:50%;
+    width:40%;
+    padding-left:30%;
+    font-size: 50px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.simple
+{
+    font-size: 20px;
+}
+
+.label2{
+    width:22%;
+    font-size: 13px;
+}
+
+
+.gn{
+    font-size: 17px;
+    font-weight:lighter;
+}
+
+.gn1{
+    font-size: 19px;
+    font-weight:lighter;
+}
+.parag{
+    font-size: 20px;
+    font-weight:lighter;
+}
+
+.subm:hover
+{
+background:yellow;
+}
+
+.footer
+{
+    width:100%;
+    height:500px;
+    background:#29487d;
+}
